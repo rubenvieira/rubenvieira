@@ -38,9 +38,9 @@ rubenvieira:
 <!-- This will automatically generate a dynamic snake animation eating my contribution graph via GitHub Actions -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubenvieira/rubenvieira/output/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rubenvieira/rubenvieira/output/dist/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rubenvieira/rubenvieira/output/dist/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubenvieira/rubenvieira/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rubenvieira/rubenvieira/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rubenvieira/rubenvieira/output/github-snake.svg">
   </picture>
 </p>
 
