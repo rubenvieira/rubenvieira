@@ -63,6 +63,14 @@ rubenvieira:
   Tinkering with microcontrollers like the ESP32, writing performant low-level firmware, and bridging the gap between hardware sensors and cloud infrastructure.
 </details>
 
+---
+
+### 📂 My Public Repositories
+
+<!-- repos -->
+<!-- /repos -->
+
+
 <br/>
 
 <div align="center">
