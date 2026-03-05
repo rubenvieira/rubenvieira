@@ -30,7 +30,7 @@ jobs:
                 }
               }
             }
-          ' --jq '.data.user.repositories.nodes[] | "- [**\(.name)**](\(.url)) \(if .description then " - \(.description)" else "" end) \(if .stargazerCount > 0 then "⭐ \(.stargazerCount)" else "" end)"')
+          ' --jq '.data.user.repositories.nodes[] | select(.name != "rubenvieira") | "- [**\(.name)**](\(.url)) \(if .description then " - \(.description)" else "" end) \(if .stargazerCount > 0 then "⭐ \(.stargazerCount)" else "" end)"')
           
           # Replace content between markers in README.md
           awk -v r="$repos" '
