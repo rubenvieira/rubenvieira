@@ -68,6 +68,8 @@ rubenvieira:
 ### 📂 My Public Repositories
 
 <!-- repos -->
+- [**rubenvieira**](https://github.com/rubenvieira/rubenvieira)  - Hello. 
+- [**meeting-timer**](https://github.com/rubenvieira/meeting-timer)  - A modern, feature-rich meeting timer built with React, Vite, Tailwind CSS, and shadcn/ui. Features countdowns, preset timers, history, timezone support, and dark mode. 
 <!-- /repos -->
 
 
