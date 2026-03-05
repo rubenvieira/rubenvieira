@@ -70,5 +70,5 @@ rubenvieira:
 <img src="https://komarev.com/ghpvc/?username=rubenvieira&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 *Powered by code, coffee, and compiling.* ☕️
-
+ 
 </div>
