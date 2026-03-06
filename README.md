@@ -68,10 +68,10 @@ rubenvieira:
 ### 📂 My Public Repositories
 
 <!-- repos -->
+- [**meeting-timer**](https://github.com/rubenvieira/meeting-timer)  - A modern, feature-rich meeting timer built with React, Vite, Tailwind CSS, and shadcn/ui. Features countdowns, preset timers, history, timezone support, and dark mode. ⭐ 1
 - [**palettepop**](https://github.com/rubenvieira/palettepop)  - A comprehensive color palette generator and analysis tool for designers and developers. Generate, analyze, and visualize color schemes that pop. 
 - [**favicon-generator**](https://github.com/rubenvieira/favicon-generator)  - A simple favicon generator built with React and TypeScript. Create custom favicons from images or emojis in seconds. 
 - [**qr-code-generator**](https://github.com/rubenvieira/qr-code-generator)  - QR Code Generator - A beautiful, modern, and high-tech utility to generate custom QR Codes easily. 
-- [**meeting-timer**](https://github.com/rubenvieira/meeting-timer)  - A modern, feature-rich meeting timer built with React, Vite, Tailwind CSS, and shadcn/ui. Features countdowns, preset timers, history, timezone support, and dark mode. ⭐ 1
 - [**rain-simulator**](https://github.com/rubenvieira/rain-simulator)  - A hyper-realistic, customizable rain and weather simulator built with React, Canvas API, and Tone.js. Features organic droplets, bokeh effects, window condensation, and procedural audio. ⭐ 1
 <!-- /repos -->
 
