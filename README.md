@@ -68,7 +68,7 @@ rubenvieira:
 ### 📂 My Public Repositories
 
 <!-- repos -->
-- [**minimax-quota-bar**](https://github.com/rubenvieira/minimax-quota-bar)  - A macOS menu bar app that displays MiniMax API quota usage in real-time ⭐ 5
+- [**minimax-quota-bar**](https://github.com/rubenvieira/minimax-quota-bar)  - A premium macOS menu bar app that displays your MiniMax API quota usage in real-time with a zero-border Notch HUD. ⭐ 4
 - [**palettepop**](https://github.com/rubenvieira/palettepop)  - A comprehensive color palette generator and analysis tool for designers and developers. Generate, analyze, and visualize color schemes that pop. 
 - [**rain-simulator**](https://github.com/rubenvieira/rain-simulator)  - A hyper-realistic, customizable rain and weather simulator built with React, Canvas API, and Tone.js. Features organic droplets, bokeh effects, window condensation, and procedural audio. ⭐ 1
 - [**qr-code-generator**](https://github.com/rubenvieira/qr-code-generator)  - QR Code Generator - A beautiful, modern, and high-tech utility to generate custom QR Codes easily. 
