@@ -68,8 +68,8 @@ rubenvieira:
 ### 📂 My Public Repositories
 
 <!-- repos -->
-- [**qr-code-generator**](https://github.com/rubenvieira/qr-code-generator)  - QR Code Generator - A beautiful, modern, and high-tech utility to generate custom QR Codes easily. 
 - [**tidewrit**](https://github.com/rubenvieira/tidewrit)  
+- [**qr-code-generator**](https://github.com/rubenvieira/qr-code-generator)  - QR Code Generator - A beautiful, modern, and high-tech utility to generate custom QR Codes easily. 
 - [**fray**](https://github.com/rubenvieira/fray)  
 - [**rain-simulator**](https://github.com/rubenvieira/rain-simulator)  - A hyper-realistic, customizable rain and weather simulator built with React, Canvas API, and Tone.js. Features organic droplets, bokeh effects, window condensation, and procedural audio. ⭐ 1
 - [**favicon-generator**](https://github.com/rubenvieira/favicon-generator)  - A simple favicon generator built with React and TypeScript. Create custom favicons from images or emojis in seconds. 
