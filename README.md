@@ -76,7 +76,7 @@ rubenvieira:
 - [**meeting-timer**](https://github.com/rubenvieira/meeting-timer)  - A modern, feature-rich meeting timer built with React, Vite, Tailwind CSS, and shadcn/ui. Features countdowns, preset timers, history, timezone support, and dark mode. ⭐ 1
 - [**meridian**](https://github.com/rubenvieira/meridian)  - Visualize time across multiple timezones with an interactive, draggable timeline 
 - [**palettepop**](https://github.com/rubenvieira/palettepop)  - A comprehensive color palette generator and analysis tool for designers and developers. Generate, analyze, and visualize color schemes that pop. 
-- [**minimax-quota-bar**](https://github.com/rubenvieira/minimax-quota-bar)  - A premium macOS menu bar app that displays your MiniMax API quota usage in real-time with a zero-border Notch HUD. ⭐ 4
+- [**minimax-quota-bar**](https://github.com/rubenvieira/minimax-quota-bar)  - A premium macOS menu bar app that displays your MiniMax API quota usage in real-time with a zero-border Notch HUD. ⭐ 5
 <!-- /repos -->
 
 
